@@ -2,6 +2,8 @@
 
 This project demonstrates how to interface an AVR microcontroller with a characteristic LCD display. The AVR microcontroller controls the LCD to display custom messages or information, making it a versatile tool for various applications.
 
+![Uploading image.png…]()
+
 
 ## Hardware Requirements
 
